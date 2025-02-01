@@ -1,0 +1,3 @@
+# Ignore api_keys.py to keep API keys safe
+WeatherPy/api_keys.py
+
