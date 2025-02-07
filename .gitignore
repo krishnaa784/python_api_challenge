@@ -1,3 +1,5 @@
 # Ignore api_keys.py to keep API keys safe
 WeatherPy/api_keys.py
 
+WeatherPy/__pycache__/
+WeatherPy/output_data/
